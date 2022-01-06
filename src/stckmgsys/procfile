@@ -1,0 +1,1 @@
+web: gunicorn stckmgsys.wsgi --log-file
