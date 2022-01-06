@@ -1,0 +1,2 @@
+# stckmgmt
+Stock Management System
